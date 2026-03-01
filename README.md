@@ -19,7 +19,7 @@
 
 上传文件后自动解析 Magic Bytes，展示真实文件类型与扩展名一致性。
 
-![检测主界面](docs/main_interface.png)
+![检测主界面](docs/main-interface.png)
 
 ### 二进制 Hex 查看器
 
