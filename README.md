@@ -1,4 +1,4 @@
-<![CDATA[# 🔍 FileTypeDetector — 基于随机森林的文件类型智能识别系统
+# 🔍 FileTypeDetector — 基于随机森林的文件类型智能识别系统
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white" alt="Python">
@@ -137,4 +137,3 @@ python Test_prediction.py
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-]]>
