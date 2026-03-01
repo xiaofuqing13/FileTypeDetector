@@ -1,5 +1,8 @@
 # 文件类型检测器
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)
+
+
 > 基于 Magic Bytes 签名的文件真实类型识别工具，有效防范扩展名伪装攻击
 
 ## 项目目的
@@ -82,4 +85,4 @@ FileTypeDetector/
 
 ## 开源协议
 
-MIT License
+MIT 许可证
