@@ -1,0 +1,35 @@
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+*.h5
+*.keras
+*.joblib
+venv/
+.env
+
+# === Java / Maven ===
+target/
+*.class
+*.jar
+*.war
+*.iml
+
+# === Node / Vue ===
+node_modules/
+dist/
+*.log
+
+# === IDE ===
+.idea/
+.vscode/
+*.swp
+
+# === macOS ===
+.DS_Store
+._*
+
+# === Temp & Archives ===
+temp/
+*.zip
